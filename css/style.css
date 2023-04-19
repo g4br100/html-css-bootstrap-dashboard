@@ -5,3 +5,16 @@
 #item{
     height: 891px;
 }
+
+header{
+    background-color: whitesmoke;
+    padding: 10px 0;
+}
+
+.colorw{
+    background-color: white;
+}
+
+.colorg{
+    background-color: rgb(213, 210, 210);
+}
