@@ -1,0 +1,7 @@
+[class*="col"]{
+    border: solid 1px black
+}
+
+#item{
+    height: 891px;
+}
