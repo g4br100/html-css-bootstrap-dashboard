@@ -2,9 +2,6 @@
     border: solid 1px black
 }
 
-#item{
-    height: 891px;
-}
 
 header{
     background-color: whitesmoke;
@@ -17,4 +14,16 @@ header{
 
 .colorg{
     background-color: rgb(213, 210, 210);
+}
+
+.colorb{
+    background-color: black;
+}
+
+.view{
+    height: 94vh;
+}
+
+.colortxtw{
+    color: white;
 }
